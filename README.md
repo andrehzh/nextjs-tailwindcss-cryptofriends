@@ -5,6 +5,6 @@ Do feel free to still give our application a test ! Thank you.
 
 ## How to use
 
-1. npm install node
-2. npm run dev
+1. `cd client` `npm install node`
+2. `npm run dev`
 3. Do install another dependencies which are prompted as well.
